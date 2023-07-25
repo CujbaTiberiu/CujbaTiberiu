@@ -3,7 +3,7 @@
 # Ciao a tutti!👋
 ## Mi chiamo Cujba Tiberiu Stefan
 
-                                                                    Full-stack Developer
+                                                               Full-stack Developer
 
 ### Front-end skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap,tailwind)](https://skillicons.dev)
