@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQH7O6nNsUfZpA/profile-displaybackgroundimage-shrink_350_1400/0/1680015429200?e=1695859200&v=beta&t=EpEBz8Ww5kqEJ6TSIC1ldYVFIgKyPImY3Y0ji1-xYCM)
+
 
 # Hello!👋
 ## My name is Cujba Tiberiu Stefan
