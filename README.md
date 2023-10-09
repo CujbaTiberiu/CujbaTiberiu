@@ -6,7 +6,7 @@
                                                         Full-stack Developer
 
 ### Front-end skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap,tailwind,next,materialui,mantine)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap,tailwind,next,materialui,redux,prisma)](https://skillicons.dev)
 
 ### Back-end skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgresql)](https://skillicons.dev)
