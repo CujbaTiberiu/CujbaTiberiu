@@ -9,10 +9,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap,tailwind,next,materialui,redux,prisma,angular,rxjs)](https://skillicons.dev)
 
 ### Back-end skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql)](https://skillicons.dev)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,postman,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,sts,webstorm,postman,git,bash)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cujbaTiberiu&show_icons=true&theme=transparent)
 
