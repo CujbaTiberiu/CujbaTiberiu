@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql)](https://skillicons.dev)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,springtoolsuite,webstorm,postman,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,docker,webstorm,postman,git,bash)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cujbaTiberiu&show_icons=true&theme=transparent)
 
